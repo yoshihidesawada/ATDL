@@ -9,6 +9,7 @@ Reimplementation of ATDL series using TensorFlow.
 
 # Usage
 Before executing this code, please make ./data/source.csv and ./data/target.csv. These are the souce and target domain data. The format of these data files is: 
+
 `<label>,<value1>,<value2> ...`
 
 After making these files, please execute a following command.
