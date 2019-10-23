@@ -8,7 +8,7 @@ Reimplementation of ATDL series using TensorFlow.
 - numpy 1.14.2
 
 # Usage
-Before executing this code, please make >./data and ./resuls directories, and ./data/source.csv and ./data/target.csv. These are the souce and target domain data. The format of these data files is: 
+Before executing this code, please make ./data and ./resuls directories, and ./data/source.csv and ./data/target.csv. These are the souce and target domain data. The format of these data files is: 
 
 `<label>,<value1>,<value2> ...`
 
