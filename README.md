@@ -27,7 +27,9 @@ This code executes K-fold cross validation (All hyperparamers including K are de
 
 # References
 [1]:Sawada et.al, "[Transfer learning method using multi-prediction deep boltzmann machines for a small scale dataset](http://www.mva-org.jp/Proceedings/2015USB/papers/05-21.pdf)", MVA, 2015.
+
 [2]:Sawada et.al, "[All-Transfer Learning for Deep Neural Networks and its Application to Sepsis Classification](https://arxiv.org/abs/1711.04450)", ECAI, 2016.
+
 [3]:Sawada et.al, "[Improvement in Classification Performance Based on Target Vector Modification for All-Transfer Deep Learning](https://www.mdpi.com/2076-3417/9/1/128)", Applied Sciences, 2019.
 
 
