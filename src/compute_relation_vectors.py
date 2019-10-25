@@ -51,7 +51,7 @@ def modify_relation_vectors(init_vectors, predict_vectors, labels):
 			for k in range(mc._TARGET_PROPERTY_NUM):
 				if j != k:
 					sub = x_star-init_vectors[k]
-					y = y-1.0/(np.linalg.norm(sub)+mc._EPS)
+					y = y-1.0/(np.linalg.norm(sub, axis=1)+mc._EPS)
 
 			min_y = np.min(y)
 			if best_y > min_y:
